@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SemestreVIII/Señales/24-02-22.md",
+                "file": "SemestreVIII/Mineria/24-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SemestreVIII/Señales/24-02-22.md",
+                "file": "SemestreVIII/Mineria/24-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SemestreVIII/Señales/24-02-22.md",
-                "linksCollapsed": false,
+                "file": "SemestreVIII/Mineria/24-02-22.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SemestreVIII/Señales/24-02-22.md"
+                "file": "SemestreVIII/Mineria/24-02-22.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,37 +160,39 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Crear nuevo lienzo": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2be58c863fe6c860",
+  "active": "bf84181f19a9d353",
   "lastOpenFiles": [
     "Tareas.md",
+    "SemestreVIII/Distribuidos/24-02-15.md",
+    "SemestreVIII/Distribuidos/24-02-14.md",
+    "SemestreVIII/Mineria/24-02-21.md",
+    "SemestreVIII/Mineria/24-02-19.md",
+    "SemestreVIII/Mineria/24-02-22.md",
     "SemestreVIII/Señales/24-02-22.md",
-    "Welcome.md",
+    "SemestreVIII/Señales/Inicio de semestre.md",
+    "SemestreVIII/Señales/24-02-15.md",
+    "SemestreVIII/Distribuidos/24-02-19.md",
+    "SemestreVIII/Distribuidos/Inicio de semestre.md",
+    "SemestreVIII/Servicios en Redes/24-02-23.md",
+    "SemestreVIII/Servicios en Redes/24-02-21.md",
+    "SemestreVIII/Servicios en Redes/24-02-20.md",
     "ShortCuts/Hyprland.md",
+    "Welcome.md",
     "SemestreVIII/Metodos/24-02-19.md",
     "ShortCuts",
-    "SemestreVIII/Servicios en Redes/24-02-23.md",
     "SemestreVIII/Servicios en Redes/adjuntos/Pasted image 20240223190946.png",
     "SemestreVIII/Servicios en Redes/adjuntos/Pasted image 20240223190543.png",
     "SemestreVIII/Servicios en Redes/adjuntos",
-    "SemestreVIII/Servicios en Redes/24-02-21.md",
     "SemestreVIII/Señales/24-02-19.md",
-    "SemestreVIII/Señales/24-02-15.md",
-    "SemestreVIII/Mineria/24-02-22.md",
-    "SemestreVIII/Mineria/24-02-21.md",
-    "SemestreVIII/Mineria/24-02-19.md",
     "SemestreVIII/Servicios en Redes/Inicio de semestre.md",
-    "SemestreVIII/Servicios en Redes/24-02-20.md",
-    "SemestreVIII/Distribuidos/24-02-15.md",
-    "SemestreVIII/Distribuidos/24-02-19.md",
-    "SemestreVIII/Distribuidos/24-02-14.md",
     "SemestreVIII/Mineria/Inicio de semestre.md",
     "SemestreVIII/Metodos/adjuntos/Pasted image 20240219162225.png",
     "SemestreVIII/Metodos/adjuntos/Pasted image 20240219160928.png",
@@ -198,8 +200,6 @@
     "SemestreVIII/Metodos/adjuntos/Pasted image 20240219154910.png",
     "SemestreVIII/Metodos/adjuntos/Pasted image 20240219151104.png",
     "SemestreVIII/Metodos/adjuntos",
-    "SemestreVIII/Distribuidos/Inicio de semestre.md",
-    "SemestreVIII/Señales/Inicio de semestre.md",
     "SemestreVIII/Mineria",
     "SemestreVIII/Metodos",
     "SemestreVIII/Sin título.md",
